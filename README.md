@@ -15,6 +15,6 @@ Cleaning up needs to be done,
 
 ===============
 To be used as is;
-1. unzip the package under webRoot/portal
-2. create the DB using the included sql file
+1. unzip the package under webRoot/portal. 
+2. create the DB using the included sql file. 
 3. configure includes/config.php, & helpers/*.php with DB info [TODO].
