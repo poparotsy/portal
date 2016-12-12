@@ -5,14 +5,6 @@ require ('includes/config.php');
 if ($user->is_logged_in ()) {
 	header ( 'Location: memberArea.php' );
 }
-
-/*
- * TO DO
- * - Add email filed
- * - resetToken to null in the DB
- * - Add change my password page [either by itslef or in the user profile page]
- */
-
 // ****
 $key = $_GET ['key'];
 $user->password = $_POST ['password'];
