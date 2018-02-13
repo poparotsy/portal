@@ -1,8 +1,3 @@
-=========================================================================================
-The objective of this project is to create a single html/pdf page/ad 
-and send the URL to user's contacts via SMS/Email etc..
-=========================================================================================
-
 Only the registration workflow is working.
 
 [TODO]
